@@ -25,6 +25,26 @@ ul > li{
     margin-left: 27%;
 }
   
-@media (min-width: 200px){
-    
+@media (max-width: 815px) {
+  
+    #navbar {
+        background-color: white;
+        position: absolute;
+        top: 0;
+        padding: 0;
+        width: 100%;
+        max-height: 50vh;
+        border: 2px solid;
+        z-index: 0;
+        border-bottom: 2px solid;
+        text-align: center;
+    }
+  
+    #main-doc {
+        position: relative;
+        margin-top: 55vh;
+    }
+    .main-section{
+        margin-left: 0px;
+    }
 }
