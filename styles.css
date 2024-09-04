@@ -1,0 +1,12 @@
+#navbar{
+    position: relative;
+    border: 2px solid;
+    width: 55vw;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+  }
+  
+  @media (min-width: 200px){
+    
+  }
