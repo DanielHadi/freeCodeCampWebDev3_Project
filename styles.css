@@ -1,3 +1,7 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 #navbar{
     position: relative;
     border: 2px solid;
@@ -5,8 +9,8 @@
     top: 0;
     left: 0;
     overflow: hidden;
-  }
+}
   
-  @media (min-width: 200px){
+@media (min-width: 200px){
     
-  }
+}
