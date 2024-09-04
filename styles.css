@@ -2,6 +2,16 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+code{
+    background-color: rgb(230, 230, 230);
+    font-style: oblique;
+    padding: 0.5rem;
+}
+
+ul > li{
+    margin-bottom: 0.5rem;
+}
+
 #navbar{
     position: fixed;
     border: 2px solid;
